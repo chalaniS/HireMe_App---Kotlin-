@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1027465802764",
+    "firebase_url": "https://hireme-fd405-default-rtdb.firebaseio.com",
+    "project_id": "hireme-fd405",
+    "storage_bucket": "hireme-fd405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027465802764:android:a61ba0d9cd2595f279ea29",
+        "android_client_info": {
+          "package_name": "com.example.hireme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027465802764-7n8uqd6p0m9r974eod2vp0u4bu0nerg6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAT0QIWjZJ12bnVfZsBssws2WOc6oJf90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027465802764-7n8uqd6p0m9r974eod2vp0u4bu0nerg6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

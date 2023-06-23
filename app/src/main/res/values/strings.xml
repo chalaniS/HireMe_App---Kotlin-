@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">HireMe</string>
+    <string name="started_title">Hello You!</string>
+    <string name="started_sub_title">
+        Nice to meet you, come login our community!
+        <br><b>Login</b> if you already have an account</br>
+        <br><b>Register</b>to get started with the app</br>
+    </string>
+    <string name="started_img">started image</string>
+    <string name="btn_login">Login</string>
+    <string name="btn_register">Register</string>
+    <string name="login_title">Login to App</string>
+
+    <string name="login_sub_title">
+        <font color="#00C988"><b>Login</b></font>if you already have an account.
+    </string>
+    <string name="login_email">Your email or username</string>
+    <string name="login_password">Enter your Password</string>
+    <string name="login_forgot_pw">forgot password?</string>
+
+    <string name="login_havent_Account">
+        I don\t have an account
+        <font color="#00c988"><b>Register</b></font>
+    </string>
+    <string name="register_title">Create an Account</string>
+
+    <string name="register_sub_title">
+        <font color="#00C988"><b>Register</b></font>
+        to get started with the app.
+    </string>
+    <string name="register_fullname">Your Full name</string>
+    <string name="register_email">Your Email</string>
+    <string name="register_username">Your Username</string>
+    <string name="register_confirm_password">confirm_password</string>
+
+    <string name="register_have_account">
+        I already have an account<font color="00C988"><b>Login</b></font>
+    </string>
+    <string name="home_title">Hello World</string>
+    <string name="home_sub_title">welcome to home</string>
+    <string name="home_start">Get Start</string>
+    <string name="home_log_out">Log Out</string>
+    <string name="prof_description">Hi, I\'m a professional graphic designer with 12 years experience.Owner and Sr. Creative Executive of Expect Graphics Home</string>
+    <string name="add_review">Add Your Review Here</string>
+    <string name="edit_review">Edit Your Review Here</string>
+</resources>
